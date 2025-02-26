@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e36510b-b5d6-457f-8597-9ce0f42d529d" name="Changes" comment="Added Dataset">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="5e36510b-b5d6-457f-8597-9ce0f42d529d" name="Changes" comment="Analyzed the International COVID-19 Data from WHO using Pandas and Matplotlib." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +54,7 @@
       <updated>1740578726065</updated>
       <workItem from="1740578727117" duration="1342000" />
       <workItem from="1740580674685" duration="13780000" />
-      <workItem from="1740595666821" duration="2008000" />
+      <workItem from="1740595666821" duration="2421000" />
     </task>
     <task id="LOCAL-00001" summary="Added Dataset">
       <option name="closed" value="true" />
@@ -67,7 +64,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740580789359</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Dataset">
+      <option name="closed" value="true" />
+      <created>1740598438276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740598438276</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Analyzed the International COVID-19 Data from WHO using Pandas and Matplotlib.">
+      <option name="closed" value="true" />
+      <created>1740598690149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740598690149</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Dataset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Dataset" />
+    <MESSAGE value="Analyzed the International COVID-19 Data from WHO using Pandas and Matplotlib." />
+    <option name="LAST_COMMIT_MESSAGE" value="Analyzed the International COVID-19 Data from WHO using Pandas and Matplotlib." />
   </component>
 </project>
