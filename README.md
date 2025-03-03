@@ -27,7 +27,6 @@ This project focuses on analyzing COVID-19 global data using **Pandas, Matplotli
    - Checked missing values, data types, and inconsistencies.
 3. **Data Cleaning**
    - Filled missing values.
-   - Removed outliers using the IQR method.
    - Clipped negative values to zero.
 4. **Filtering Data**
    - Selected major countries for meaningful visualization.
